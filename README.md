@@ -1,16 +1,22 @@
 ## Привет, меня зовут Евгений Мазуров 👋
 
-<!--
-**evgenii-mazurov/evgenii-mazurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analytic / BI Analytic
+Я около года занимаюсь аналитикой данных, получаю удовольствие от работы c реальными данными для принятия ключевых бизнес-решений.
+## Основной стек:
+🔹 SQL (CTE, оконные функции, вложенные запросы)
+🔹 Python (Pandas, Numpy, Matplotlib, Seaborn, Pyspark)
+🔹 DataLens
+🔹 Superset
+🔹 Jupyter Notebook
+🔹 ClickHouse
+🔹 Airflow
+🔹 MS Excel
 
-Here are some ideas to get you started:
+## Мои проекты
+🔹
+🔹
+🔹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои контакты
+📧 evg.mazurov97@gmail.com
+📱 Telegram: @Ev_Maz

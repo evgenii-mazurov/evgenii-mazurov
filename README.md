@@ -1,29 +1,32 @@
 ## Привет, меня зовут Евгений Мазуров 👋
 
-## Data Analytic / BI Analytic
+**Data Analytic / BI Analytic**
 Я около года занимаюсь аналитикой данных, получаю удовольствие от работы c реальными данными для принятия ключевых бизнес-решений.
 ## Основной стек:
-🔹 SQL (CTE, оконные функции, вложенные запросы)
+🔹 **SQL** (CTE, оконные функции, вложенные запросы)
 
-🔹 Python (Pandas, Numpy, Matplotlib, Seaborn, Pyspark)
+🔹 **Python** (Pandas, Numpy, Matplotlib, Seaborn, Pyspark)
 
-🔹 DataLens
+🔹 **DataLens**
 
-🔹 Superset
+🔹 **Superset**
 
-🔹 Jupyter Notebook
+🔹 **Jupyter Notebook**
 
-🔹 ClickHouse
+🔹 **ClickHouse**
 
-🔹 Airflow
+🔹 **Airflow**
 
-🔹 MS Excel
+🔹 **MS Excel**
 
 ## Мои проекты
 🔹
+
 🔹
+
 🔹
 
 ## Мои контакты
 📧 evg.mazurov97@gmail.com
+
 📱 Telegram: @Ev_Maz
